@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.4.0_1f419370aed74dcfc6a507d9e91ffdd61b39292a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-23.4.0_94820cb474e1e22d3279aaebd7365bfd3957a49a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\internal_impl-23.4.0_ab369f0c3eef46f0ad8fef18d6c106acdd7ce62a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\exploded-aar\com.android.support\design\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5326d9a850d491714fef8cbfaa9ea3416f0bf0d2">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\com.android.support-design-23.4.0_bf0cd9d2ec1a5e1fe91bc4457d11bd5c712e305b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-23.4.0_3e2788f80e4b9f6bb1c71affb5184f2b0fe0f3c6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\exploded-aar\com.koushikdutta.async\androidasync\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0772eec11be9e3803736882ae4bec4078986910e">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\com.koushikdutta.async-androidasync-2.2.1_61818be97b811e23aa94ccea74b91ca98f23b038.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.4.0_41b3ba4f22c24652ff3f8dfc887f1783c10ef7fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\exploded-aar\org.lucasr.smoothie\smoothie\0.1.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ea6eb6d34b3cbf187f49b9e44d94526ae0e7a248">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\org.lucasr.smoothie-smoothie-0.1.0_dc79d781b35c873bd70fd66db451bf24f054dbd4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soheb\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\23.4.0\ffbe55fdb2bb456b1485831706a9eac3300bb6b8\support-annotations-23.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\support-annotations-23.4.0_e09ff7f6e26a80370494f064ecfd1348496a8360.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\exploded-aar\com.koushikdutta.ion\ion\2.2.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="05e8375b2ec26e4508b2a745d5a0623ba95f9b49">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\com.koushikdutta.ion-ion-2.2.1_859fc79a695ed8c1fd4b59aba8dfbafc563926e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="ec75036c3c52e451d0cde50a5aedaf5fd32354a0">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-23.4.0_f195a243e67468ec970b6a0cd885009bd2c84ba9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soheb\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3\5fc52c41ef0239d1093a1eb7c3697036183677ce\gson-2.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\gson-2.3_76730c368d3244d8947c57198f3c2ddb3a464a64.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\soheb\.gradle\caches\modules-2\files-2.1\com.squareup.picasso\picasso\2.5.2\7446d06ec8d4f7ffcc53f1da37c95f200dcb9387\picasso-2.5.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="E:\Android projects\latest7\latest7\DataBeam3\app\build\intermediates\pre-dexed\debug\picasso-2.5.2_512a50c7f2f5a1c104e5307f925710e6dbfd3082.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="100dp"
+    android:layout_height="100dp">
+
+    <ImageView
+        android:id="@+id/gridImg"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerInParent="true"></ImageView>
+
+    <CheckBox
+        android:id="@+id/checkImage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:background="#FFFFFF"
+         />
+</RelativeLayout>
+
+<!--   android:background="@android:color/transparent"
+    android:cacheColorHint="@android:color/transparent"
+    android:fastScrollEnabled="true"
+    android:persistentDrawingCache="scrolling"
+    android:scrollingCache="false" />  -->

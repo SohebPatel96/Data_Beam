@@ -1,0 +1,38 @@
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingTop="56dp"
+    tools:context="com.example.msp.databeam.History">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ListView
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:id="@+id/listView"
+        android:paddingBottom="50dp"
+        android:layout_gravity="center" >
+        </ListView>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Clear History"
+        android:id="@+id/button4"
+        android:background="#78909c"
+        android:layout_gravity="center_horizontal|bottom"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"></Button>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Empty!!"
+        android:textSize="40dp"
+        android:id="@+id/textView9"
+        android:layout_alignTop="@+id/listView"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

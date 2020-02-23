@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.msp.databeam.FilesReceived"
+    android:paddingTop="56dp">
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <ListView
+        android:id="@+id/receivelist"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:divider="#FFFFFF" />
+
+</RelativeLayout>

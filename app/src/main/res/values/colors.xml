@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="TabPrimary">#3F51B5</color>
+    <color name="colorPrimary">#1061ca</color>
+    <color name="colorPrimaryDark">#1565C0
+    </color>
+    <color name="colorAccent">#c6ff00</color>
+    <color name="darkColorPrimary">#1e2756
+    </color>
+    <color name="darkColorPrimaryDark">#141831</color>
+    <color name="darkColorAccent">#2aac4b
+    </color>
+    <color name="layout_border_color">#FF111111</color>
+    <color name="background">#37474F
+    </color>
+</resources>

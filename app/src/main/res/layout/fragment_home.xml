@@ -1,0 +1,80 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.msp.databeam.Home">
+
+
+    <!-- TODO: Update blank fragment layout -->
+
+
+    <Button
+        android:id="@+id/send"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/receive"
+        android:layout_marginTop="140dp"
+        android:background="@drawable/homebutton"
+        android:drawablePadding="-50dp"
+        android:drawableStart="@drawable/ic_action_upload"
+        android:paddingLeft="45dp"
+        android:text="Send" />
+
+    <Button
+        android:id="@+id/receive"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/send"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="35dp"
+        android:background="@drawable/homebutton"
+        android:drawableLeft="@drawable/ic_action_download"
+        android:drawablePadding="-50dp"
+        android:paddingLeft="45dp"
+        android:text="Recieve" />
+
+    <ImageButton
+        android:id="@+id/imageButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/receive"
+        android:layout_below="@+id/receive"
+        android:layout_marginStart="26dp"
+        android:layout_marginTop="52dp"
+        android:background="@drawable/circlebutton"
+        android:src="@drawable/ic_action_folder_tabs" />
+
+    <ImageButton
+        android:id="@+id/imageButton2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/receive"
+        android:layout_alignTop="@+id/imageButton1"
+        android:layout_marginEnd="21dp"
+        android:background="@drawable/circlebutton"
+        android:src="@drawable/ic_action_laptop" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignStart="@+id/imageButton1"
+        android:layout_below="@+id/imageButton1"
+        android:text="Files Received"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+    <TextView
+        android:id="@+id/textView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignTop="@+id/textView5"
+        android:layout_toEndOf="@+id/imageButton1"
+        android:text="      Connect to PC"
+        android:textAppearance="?android:attr/textAppearanceMedium" />
+
+</RelativeLayout>
